@@ -52,7 +52,8 @@ ul {
   padding: 0;
   margin-top: var(--base-margin);
   margin-bottom: var(--base-margin);
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: var(--base-margin);
 }
 
