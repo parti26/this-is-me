@@ -1,0 +1,6 @@
+- Create a level 1 title with your name (h1)
+- Create a paragraph includes a basic introduction information about yourself. (p)
+- Create a level 2 title with: "My Best things" (h2)
+- Create an unordered list (ul li) contains your best things like hobbies, foods, humans, games etc...
+- Create a level 2 title with: "As a cat"
+- Find a cute image from a cat in the internet, and create an image element showing that cat. (img)
