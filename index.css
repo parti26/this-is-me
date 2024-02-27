@@ -6,7 +6,7 @@
   --base-margin: 1rem;
   --p-margin-bottom: 2rem;
   --shadow: 0 5px 8px rgba(0, 0, 0, 0.200);
-  --img-width: 40%;
+  --img-width: 20%;
 }
 
 * {
@@ -18,7 +18,7 @@ body {
   padding: var(--base-padding);
   font-family: "Roboto", sans-serif;
   font-size: var(--font-size-base);
-  background-color: rgb(201, 229, 201);
+  background-color: rgb(127, 70, 188);
 }
 
 h1:first-child {
@@ -36,7 +36,7 @@ h2 {
 }
 
 p {
-  background-color: rgb(245, 245, 245);
+  background-color: rgb(231, 169, 35);
   box-shadow: var(--shadow);
   padding: var(--base-padding);
   margin-bottom: var(--p-margin-bottom);
@@ -53,7 +53,7 @@ ul {
 
 ul li {
   list-style-type: none;
-  background-color: rgb(174, 174, 253);
+  background-color: rgb(219, 98, 12);
   padding: var(--base-padding);
   box-shadow: var(--shadow);
   margin-top: .8rem;
