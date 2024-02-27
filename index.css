@@ -62,6 +62,13 @@ ul li {
   padding: var(--base-padding);
   box-shadow: var(--shadow);
   margin-top: .8rem;
+  cursor: pointer;
+  transition: all .3s ease-in-out;
+}
+
+ul li:hover {
+    background-color: rgb(192, 93, 189);
+    transform: translateY(-5px)
 }
 
 img {
@@ -69,4 +76,8 @@ img {
   box-shadow: var(--shadow);
   margin-bottom: var(--base-margin);
   border-radius: 1rem;
+}
+
+.special {
+    font-weight: bold;
 }
